@@ -1,0 +1,15 @@
+C:\Code\Learn\LightHouse\bin\Debug\net6.0\LightHouse.exe
+C:\Code\Learn\LightHouse\bin\Debug\net6.0\LightHouse.deps.json
+C:\Code\Learn\LightHouse\bin\Debug\net6.0\LightHouse.runtimeconfig.json
+C:\Code\Learn\LightHouse\bin\Debug\net6.0\LightHouse.dll
+C:\Code\Learn\LightHouse\bin\Debug\net6.0\LightHouse.pdb
+C:\Code\Learn\LightHouse\obj\Debug\net6.0\LightHouse.csproj.AssemblyReference.cache
+C:\Code\Learn\LightHouse\obj\Debug\net6.0\LightHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Learn\LightHouse\obj\Debug\net6.0\LightHouse.AssemblyInfoInputs.cache
+C:\Code\Learn\LightHouse\obj\Debug\net6.0\LightHouse.AssemblyInfo.cs
+C:\Code\Learn\LightHouse\obj\Debug\net6.0\LightHouse.csproj.CoreCompileInputs.cache
+C:\Code\Learn\LightHouse\obj\Debug\net6.0\LightHouse.dll
+C:\Code\Learn\LightHouse\obj\Debug\net6.0\refint\LightHouse.dll
+C:\Code\Learn\LightHouse\obj\Debug\net6.0\LightHouse.pdb
+C:\Code\Learn\LightHouse\obj\Debug\net6.0\LightHouse.genruntimeconfig.cache
+C:\Code\Learn\LightHouse\obj\Debug\net6.0\ref\LightHouse.dll

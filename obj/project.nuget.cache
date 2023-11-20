@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5QCjQKWOrhxuVPg6btAIh6fIrEYXJdUigdEJ/VdJ57a7N7Pz62PBUYXxWX4Zmev5ghOyFAUwGmYykJZ2NvuLw==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Learn\\LightHouse\\LightHouse.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://penuget2/api/v2/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
